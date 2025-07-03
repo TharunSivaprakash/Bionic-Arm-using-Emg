@@ -51,3 +51,13 @@ How It Works
 | Servo GND        | GND (common with NodeMCU) |
 
  ⚠️ **Note**: Do NOT power the servo directly from NodeMCU 3.3V. Use a separate 5V power supply.
+
+
+ 
+- ## Output
+
+
+https://github.com/user-attachments/assets/f4c8cc90-89da-465d-8697-03a904d10db4
+
+
+- 
